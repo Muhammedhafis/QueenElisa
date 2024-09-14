@@ -30,7 +30,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
 
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
 
-  MONGODB_URL: 'mongodb+srv://King-MdIsbot:King-MdIsbot@cluster0.hikjrg2.mongodb.net/?retryWrites=true&w=majority', 
+  MONGODB_URL: 'mongodb+srv://hafis1:<db_password>@hafis.fwqiv.mongodb.net/?retryWrites=true&w=majority&appName=hafis', 
 
   PREFIX: '.$&',
 
